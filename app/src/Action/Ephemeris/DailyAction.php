@@ -24,15 +24,15 @@ final class DailyAction
 		}
 		else
 		{
+			$this->setDate(strtotime($dt->format('Y-m-d')));
+
 			$dir = __DIR__ . '/../../../../data/ephemeris/daily/' . strftime('%B', $this->getDate());
 			if(!file_exists($dir))
 			{
 				mkdir($dir);
 			}
 
-			$this->setDate(strtotime($dt->format('Y-m-d')));
 			$this->setFileCached($dir . '/' . strftime('%d', $this->getDate()) . '.json');
-
 			$forceFileCached = isset($request->getQueryParams()['forceFileCached']) ? $request->getQueryParams()['forceFileCached'] : false;
 
 			if(file_exists($this->getFileCached()) && $forceFileCached != true)
