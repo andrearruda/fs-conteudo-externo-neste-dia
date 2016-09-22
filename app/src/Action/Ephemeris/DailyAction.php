@@ -41,7 +41,7 @@ final class DailyAction
 			}
 			else
 			{
-				$this->setUrl('https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Efem%C3%A9rides/' . sprintf('%s_de_%s', (int) strftime('%d', $this->getDate()), strftime('%B', $this->getDate())));
+				$this->setUrl('https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Efem%C3%A9rides/' . utf8_encode(sprintf('%s_de_%s', (int) strftime('%d', $this->getDate()), strftime('%B', $this->getDate()))));
 				$this->setHtml(phpQuery::newDocumentFileHTML($this->getUrl()));
 
 				$data = array(
