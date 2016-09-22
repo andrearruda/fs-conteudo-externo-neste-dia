@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9532909e-f1e7-4521-873d-1c8af64b843b" name="Default" comment="" />
+    <list default="true" id="9532909e-f1e7-4521-873d-1c8af64b843b" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\01.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\02.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\03.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\04.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\05.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\06.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\07.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\08.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\09.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\10.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\11.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\12.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\13.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\14.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\15.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\16.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\17.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\18.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\19.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\20.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\21.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\22.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\23.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\24.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\25.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\26.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\27.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\28.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\29.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\30.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\outubro\31.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\01.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\02.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\03.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\04.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\05.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\06.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\07.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\08.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\09.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\10.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\11.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\12.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\13.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\14.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\15.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\16.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\17.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\18.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\19.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\20.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\21.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\22.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\23.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\24.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\25.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\26.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\27.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\28.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\29.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\DEV\neste_dia\www\data\ephemeris\daily\setembro\30.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,18 +86,67 @@
     <favorites_list name="www" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="DailyAction.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/Action/Ephemeris/DailyAction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="43" column="107" selection-start-line="43" selection-start-column="96" selection-end-line="43" selection-end-column="107" />
+              <folding>
+                <element signature="e#40#95#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonthlyAction.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/Action/Ephemeris/MonthlyAction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="81" selection-start-line="34" selection-start-column="81" selection-end-line="34" selection-end-column="81" />
+              <folding>
+                <element signature="e#40#95#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="47" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/data/ephemeris/daily/setembro_21.json" />
-        <option value="$PROJECT_DIR$/public/index.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/routes.php" />
-        <option value="$PROJECT_DIR$/app/src/Action/Ephemeris/MonthlyAction.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/data/ephemeris/daily/.gitignore" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/app/src/Action/Ephemeris/DailyAction.php" />
+        <option value="$PROJECT_DIR$/app/src/Action/Ephemeris/MonthlyAction.php" />
       </list>
     </option>
   </component>
@@ -53,7 +167,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -76,8 +190,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -96,8 +208,126 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ephemeris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ephemeris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ephemeris" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -109,6 +339,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DEV\neste_dia\www\data\ephemeris\daily" />
       <recent name="D:\DEV\neste_dia\www" />
     </key>
   </component>
@@ -151,22 +382,54 @@
       <option name="number" value="Default" />
       <updated>1474385791497</updated>
     </task>
+    <task id="LOCAL-00001" summary="cria diretorio">
+      <created>1474563770101</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1474563770101</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cria diretorio">
+      <created>1474564016663</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1474564016663</updated>
+    </task>
+    <task id="LOCAL-00003" summary="utf8 enconde titlte of month">
+      <created>1474564242249</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1474564242249</updated>
+    </task>
+    <task id="LOCAL-00004" summary="utf8 enconde">
+      <created>1474568112286</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1474568112286</updated>
+    </task>
+    <task id="LOCAL-00005" summary="utf8 enconde">
+      <created>1474568141515</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1474568141515</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22121535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22761194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32792208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -188,6 +451,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cria diretorio" />
+    <MESSAGE value="utf8 enconde titlte of month" />
+    <MESSAGE value="utf8 enconde" />
+    <option name="LAST_COMMIT_MESSAGE" value="utf8 enconde" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -196,21 +465,36 @@
     <entry file="file://$PROJECT_DIR$/app/src/Action/Ephemeris/DailyAction.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="107" selection-start-line="43" selection-start-column="96" selection-end-line="43" selection-end-column="107" />
+          <folding>
+            <element signature="e#40#95#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/Action/Ephemeris/MonthlyAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#95#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date.php">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34252873">
-          <caret line="943" column="9" selection-start-line="943" selection-start-column="9" selection-end-line="943" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date_c.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34252873">
-          <caret line="443" column="27" selection-start-line="443" selection-start-column="27" selection-end-line="443" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="47" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -228,27 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48850575">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5275862">
-          <caret line="27" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41034484">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17586207">
@@ -256,17 +519,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/Action/Ephemeris/MonthlyAction.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46896553">
-          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.34252873">
+          <caret line="768" column="9" selection-start-line="768" selection-start-column="9" selection-end-line="768" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.153847">
+          <caret line="79" column="28" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61728394">
+          <caret line="450" column="27" selection-start-line="450" selection-start-column="27" selection-end-line="450" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ephemeris/daily/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08614865">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029982364">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="47" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/Action/Ephemeris/DailyAction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0747126">
-          <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="107" selection-start-line="43" selection-start-column="96" selection-end-line="43" selection-end-column="107" />
+          <folding>
+            <element signature="e#40#95#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/Action/Ephemeris/MonthlyAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="81" selection-start-line="34" selection-start-column="81" selection-end-line="34" selection-end-column="81" />
+          <folding>
+            <element signature="e#40#95#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
