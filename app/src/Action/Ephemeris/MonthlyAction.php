@@ -32,7 +32,7 @@ final class MonthlyAction
 			$this->setDirFilesCachedByMonthly(__DIR__ . '/../../../../data/ephemeris/daily/' . strftime('%B', $this->getDate()));
 
 			$data = array(
-				'month' => ucfirst(strftime('%B', $this->getDate())),
+				'month' => utf8_encode(ucfirst(strftime('%B', $this->getDate()))),
 				'days' => array()
 			);
 			for($i = 1; $i <= date('t', $this->getDate()); $i++)
