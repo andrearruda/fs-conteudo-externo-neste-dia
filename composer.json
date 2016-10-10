@@ -19,6 +19,7 @@
     "require": {
         "slim/slim": "^3.0",
         "electrolinux/phpquery": "*",
-        "thapp/xmlbuilder": "^0.1.4"
+        "thapp/xmlbuilder": "^0.1.4",
+        "danielstjules/stringy": "~2.3"
     }
 }
